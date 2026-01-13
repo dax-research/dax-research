@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Dax:
 🔭 I’m currently working on<br>AI and machine learning projects, along with building a strong foundation in data science and core computer science.<br><br>👯 I’m looking to collaborate on<br>Open source AI, ML, and data driven projects, especially anything related to real world problem solving.<br><br>🤝 I’m looking for help with<br>Advanced machine learning, research-oriented projects, and preparing for higher studies in AI.<br><br>🌱 I’m currently learning<br>Machine learning, Python for data science, and the math behind AI models.<br><br>💬 Ask me about<br>AI, machine learning, Python, data analysis, and how to get started in the AI field.<br><br>⚡ Fun fact<br>I’m as curious about space and the universe as I am about artificial intelligence.
 
 
